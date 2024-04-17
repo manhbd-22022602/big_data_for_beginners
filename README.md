@@ -1,5 +1,7 @@
-![big_data](https://socialify.git.ci/groda/big_data/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&stargazers=1&forks=1&theme=Light)
+# **22022602 Bùi Đức Mạnh**
 
+# About this repository
+Repo lưu trữ các bài tập của khoá học Big data INT3229 1
 # Big Data for beginners
 
 Explore a variety of tutorials and interactive demonstrations focused on Big Data technologies like Hadoop, Spark, and more, primarily presented in the format of Jupyter notebooks.
@@ -43,8 +45,6 @@ Explore a variety of tutorials and interactive demonstrations focused on Big Dat
 
 ## Big Data Learning Pathways
 - **[online_resources.md](online_resources.md)** Online resources for learning Big Data
-
-# About this repository
 
 ## Notebooks Testing and CI
 
